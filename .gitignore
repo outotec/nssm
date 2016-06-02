@@ -1,0 +1,7 @@
+/tmp
+/MSG*.bin
+/messages.h
+/messages.rc
+/nssm.opensdf
+/nssm.sdf
+/version.h
